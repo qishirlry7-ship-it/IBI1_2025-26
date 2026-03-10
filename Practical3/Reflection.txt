@@ -1,4 +1,8 @@
+During this course, I have learnt version control, and try to bulid my own website by using GitHub.
+
+Here are my harvest:
 Firstly, it is very important to remember doing 'git add' before everytime you want to do 'git commit'.
 Then, I met a problem in the merge part. There came many conflicts, after asking AI I changed the words by myself.
 The last problem is that I have some trouble distinguishing the function of 'git push' and 'git pull', I am trying my best to remember their difference.
+
 I have a question about deeply using GitHub. As I used GitHub in the past before studying it, I used it to download many things. In the repo, which part is the thing we actually need, and which part isn't?
