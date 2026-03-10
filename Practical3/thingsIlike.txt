@@ -11,5 +11,5 @@ I like the Earth.
 I like Autumn.
 I like water.
 I like Spring.
-I don't like Summer.
+I like Summer.
 I like Winter.
