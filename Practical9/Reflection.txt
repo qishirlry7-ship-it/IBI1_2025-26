@@ -1,0 +1,5 @@
+This practical helped me understand how stochastic SIR models can be used to simulate the spread of infectious diseases. The first SIR model was relatively straightforward because the population was represented using only three numbers: susceptible, infected, and recovered. The vaccination part was also useful because it showed how increasing vaccination rates can reduce the peak number of infected people.
+
+The spatial SIR model was more challenging because I had to think about the position of each individual in a 2D grid and check the neighbours of infected cells. I found this part harder than the basic model, especially dealing with edge cases where a cell is on the boundary of the grid.
+
+The most important thing I learned is that probabilistic models can give different results each time they are run, even when the parameters are the same. I also learned how infection probability, recovery probability, and vaccination rate affect the spread of disease.
