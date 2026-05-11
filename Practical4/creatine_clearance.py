@@ -1,7 +1,7 @@
 #store the value of age, weight, gander, and creatine concentration, Cr, in	height
 #I am not sure the format of some input, so I use float() to have a wider cover.
-print('age: (in years)')
-age = int(input()) #unit: year
+
+age = int(input('age: (in years)')) #unit: year
 print('weight: (in kg)')
 weight = float(input()) #unit: kg
 #We need to add an factor when calculating the CrCl of female, use 1 and 2 can help us simplify the work.

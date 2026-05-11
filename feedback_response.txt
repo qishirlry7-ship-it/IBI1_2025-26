@@ -1,0 +1,10 @@
+Dear all,
+
+I'm writing to share my responses to the recent feedback I recevied. I'd like to thank the teachers for help me do better in coding. 
+
+Firstly, I was disappointed to hear that in week4, I should use male or female to jugde the gender instead of 1 or 2, so I changed it in line 8 and line 19.
+
+You also told me that my figure in week5 missing an x-axis label, I have changed it in the line 26.
+
+Best wishes,
+5076

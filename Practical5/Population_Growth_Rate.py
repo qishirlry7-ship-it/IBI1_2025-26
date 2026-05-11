@@ -23,5 +23,6 @@ plt.bar(population_changes.keys(), population_changes.values()) # x&y should be 
 for i, value in enumerate(population_changes.values()):
     plt.text(i, value, f'{value:.2f}', ha='center', va='bottom') # only keeps two decimal places
 plt.title('Population Change')
+plt.xlabel('Country')
 plt.ylabel('population change (%)')
 plt.show()
