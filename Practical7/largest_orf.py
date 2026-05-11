@@ -15,5 +15,6 @@ for i in range(len(seq)-2):
 
                 break
 
+print('Longest ORF is', longest_orf)
 print('Length is', len(longest_orf))
 

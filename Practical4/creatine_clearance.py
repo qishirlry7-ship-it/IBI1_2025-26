@@ -4,8 +4,8 @@
 age = int(input('age: (in years)')) #unit: year
 print('weight: (in kg)')
 weight = float(input()) #unit: kg
-#We need to add an factor when calculating the CrCl of female, use 1 and 2 can help us simplify the work.
-print('if is male please type 1, female type 2')
+#We need to add an factor when calculating the CrCl of female.
+print('What is your gender, male or female?')    # improved
 gender = int(input()) 
 print('Cr(creatine concentration): (in µmol/l)')
 Cr = float(input()) #unit: µmol/l
@@ -16,7 +16,7 @@ elif 20 >= weight or weight >= 80:
     print('Weight needs corrected.')
 elif 0 >= Cr or Cr >= 100:
     print('Cr needs corrected.')
-elif gender == 2:
+elif gender == 'female':    # improved
     CrCl = (140 - age) * weight * 0.85 / (72 * Cr)
     print(CrCl)
 elif gender == 1:
