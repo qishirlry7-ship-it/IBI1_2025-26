@@ -1,0 +1,10 @@
+What was the distribution of DALYs across all countries or regions in 2019?
+
+The code answering this question starts at line 136 of dalys.py. The histogram starts at line 139.
+
+Mean DALYs in 2019: 33645.16188596491
+Median DALYs in 2019: 29562.595
+Maximum DALYs in 2019: 90771.64
+Minimum DALYs in 2019: 15045.11
+
+The histogram shows that DALYs values were not evenly distributed across countries or regions in 2019. Most countries or regions had DALYs values around 20,000 to 35,000, while a smaller number had much higher values. The mean was higher than the median, which suggests that the distribution was right-skewed because some countries or regions had very high DALYs values. This means that the burden of disease differed substantially between countries and regions in 2019.
