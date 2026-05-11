@@ -7,9 +7,9 @@ def predict_protein_mass(x):
         if i in mass.keys():
             protein_mass = protein_mass + mass[i]
         else:
-            print('Amino acid ', i, ' has no recoreded mass.')
-            return
-    return 'Error: Amino acid ', i, ' has no recorded mass.'
+            print('Amino acid ', i, ' has no recorded mass.')
+            return f'Error: Amino acid {i} has no recorded mass.'
+    return protein_mass
 print("""
 Amino acid    Symbol
 Glycine       G
